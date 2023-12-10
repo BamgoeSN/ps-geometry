@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1318490367619189",
@@ -121,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md"
+              }
             }
           }
         ]
@@ -178,8 +181,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f53246db68686720",
+  "active": "2d18db590d9939ca",
   "lastOpenFiles": [
+    "geogebra-export-3-1-1024x234.png",
     "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
     "Spaces/Home/2차원 기하학/도형의 기초/도형의 기초.md",
     "Spaces/Home/2차원 기하학/도형의 기초",
