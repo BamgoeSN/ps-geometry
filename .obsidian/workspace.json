@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/2차원 기하학 - Setup/PS에서 필요할 기초.md",
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md"
+                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md"
               }
             }
           }
@@ -183,11 +183,11 @@
   },
   "active": "2d18db590d9939ca",
   "lastOpenFiles": [
+    "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
     "Pasted image 20231210192205.png",
     "Pasted image 20231210191709.png",
     "Pasted image 20231210191354.png",
-    "Spaces/Home/2차원 기하학 - Setup/PS에서 필요할 기초.md",
-    "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
+    "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
     "Pasted image 20231210191046.png",
     "Pasted image 20231210190743.png",
     "Pasted image 20231210190726.png",
@@ -195,7 +195,6 @@
     "Pasted image 20231210190307.png",
     "Pasted image 20231210190041.png",
     "Pasted image 20231210185829.png",
-    "Pasted image 20231210185728.png",
     "README.md",
     "Spaces/Home/2차원 기하학/도형의 기초/도형의 기초.md",
     "Spaces/Home/2차원 기하학/도형의 기초",
