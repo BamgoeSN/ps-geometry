@@ -37,7 +37,11 @@
   "expandedSpaces": [
     "/",
     "Spaces/Home/Spaces/Home/2차원 기하학",
-    "Spaces/Home/Spaces/Home/2차원 기하학"
+    "Spaces/Home/Spaces/Home/2차원 기하학",
+    "Spaces/Home/Spaces/Home/2차원 기하학",
+    "Spaces/Home/Spaces/Home/2차원 기하학 - Setup",
+    "Spaces/Home/Spaces/Home/2차원 기하학",
+    "Spaces/Home/Spaces/Home/2차원 기하학/Spaces/Home/2차원 기하학/도형의 기초"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -63,7 +67,9 @@
     "spaces://$tags"
   ],
   "rootSpaces": [
-    "Spaces/Home/2차원 기하학"
+    "Spaces/Home/2차원 기하학",
+    "Spaces/Home/2차원 기하학",
+    "Spaces/Home/2차원 기하학/도형의 기초"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
