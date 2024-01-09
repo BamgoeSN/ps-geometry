@@ -4,32 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "95d3c66f2cd15e26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d18db590d9939ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f53246db68686720",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "1318490367619189",
         "type": "tabs",
         "children": [
@@ -39,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
+                "file": "Spaces/Home/temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
+                "file": "Spaces/Home/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
+                "file": "Spaces/Home/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md"
+                "file": "Spaces/Home/temp.md"
               }
             }
           }
@@ -184,6 +158,7 @@
   "active": "f54cf8a60e2de29a",
   "lastOpenFiles": [
     "Spaces/Home/2차원 기하학/도형의 기초/점과 선.md",
+    "Spaces/Home/temp.md",
     "Spaces/Home/2차원 기하학/도형의 기초/커리큘럼.md",
     "Pasted image 20231210192205.png",
     "Pasted image 20231210191709.png",
@@ -202,7 +177,6 @@
     "Spaces/Home/2차원 기하학 - Setup/교육과정 서술의 순서 잡기.md",
     "Spaces/Home/2차원 기하학/2차원 기하학.md",
     "Spaces/Home/2차원 기하학",
-    "Spaces/Home/Untitled.md",
     "Spaces/Home/2차원 기하학 - Setup/학교 교육과정.md",
     "Spaces/Home/2차원 기하학 - Setup/2차원 기하학 - Setup.md",
     "Spaces/Home/2차원 기하학 - Setup",
