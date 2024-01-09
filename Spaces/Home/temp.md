@@ -21,5 +21,7 @@ Naive 나눗셈을 적용해도 되지 않을까?
 
 1. 위에 기술한 대로 $p, q, r, s$를 구하고, naive 나눗셈을 시뮬레이션할 것.
 2. 답은 $n \leftarrow 0$에 저장된다.
-3. $x \leftarrow p2^B + q$
-4. $x = fm + g$인 정수 $f, g$를 구함. 
+3. $c \leftarrow 0$, $x \leftarrow p2^B + q$. $c2^{2B} + x$가 naive 나눗셈에서 볼 피제수이다.
+4. $c2^{2B} + x = fm + g$인 정수 $f, g$를 구함. 
+5. 망했는데
+
